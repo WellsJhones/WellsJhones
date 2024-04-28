@@ -24,5 +24,4 @@
 
 # Alura Badges
 
-<img src="badgesAlura/conversor_moedas.png" width="200">
-<img src="badgesAlura/encriptador.png" width="200">
+<img src="badgesAlura/conversor_moedas.png" width="200"><img src="badgesAlura/encriptador.png" width="200">
