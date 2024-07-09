@@ -20,14 +20,14 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  
 # Status
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellsJhones&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)[![GitHub Streak](https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
+![Top Langs ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellsJhones&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[<img src="https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF" width="420"></a>](https://web.dio.me/track/santander-2024-backend-com-java/)
 
 
 # Bootcamp 
 
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="100"></a>](https://web.dio.me/track/santander-2024-backend-com-java/)
 [<img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" height="100"></a>](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)[<img src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" height="80"></a>](https://www.oracle.com/br/education/oracle-next-education/)
-# Alura Projects Badges
+# Alura Project Badges
 
 <img src="badgesAlura/Badge-Spring.png" width="100"><img src="badgesAlura/conversor_moedas.png" width="100"><img src="badgesAlura/encriptador.png" width="100"><img src="badgesAlura/badge literalura.png" width="100">
