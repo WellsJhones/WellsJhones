@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WellsJhones)
 
 # Skills
-![Reach](https://img.shields.io/badge/react-%3670A0.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-3670A0.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,11 +22,11 @@
  
 # Status
 [<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellsJhones&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" width="301">](https://github.com/WellsJhones)
-[<img src="https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF" width="420"></a>](https://web.dio.me/track/santander-2024-backend-com-java/)
+
 
 
 # Bootcamp 
-
+[<img src="https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF" width="420">](https://web.dio.me/track/santander-2024-backend-com-java/)
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="100"></a>](https://web.dio.me/track/santander-2024-backend-com-java/)
 [<img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" height="100"></a>](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)
 [<img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="100"></a>](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)
