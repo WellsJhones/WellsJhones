@@ -21,12 +21,11 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  
 # Status
-[<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellsJhones&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" width="301">](https://github.com/WellsJhones)
+[<img src="https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF" width="420">](https://github.com/WellsJhones)
 
 
 
 # Bootcamp 
-[<img src="https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF" width="420">](https://web.dio.me/track/santander-2024-backend-com-java/)
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="100"></a>](https://web.dio.me/track/santander-2024-backend-com-java/)
 [<img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" height="100"></a>](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)
 [<img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="100"></a>](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)
