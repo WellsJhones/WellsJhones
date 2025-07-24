@@ -21,8 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  
 # Status
-[<img src="https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF" width="420">](https://github.com/WellsJhones)
-
+<img src="https://streak-stats.demolab.com/?user=WellsJhones&theme=bear&background=000&border=30A3DC&dates=FFF"></a>
 
 
 # Bootcamp 
