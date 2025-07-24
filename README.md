@@ -35,9 +35,4 @@
 <img src="badgesAlura/Badge-Spring.png" width="100"><img src="badgesAlura/conversor_moedas.png" width="100"><img src="badgesAlura/encriptador.png" width="100"><img src="badgesAlura/badge literalura.png" width="100">
 
 #  British Council 
-<img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/14886290" width="100">
-<img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15006642" width="100">
-<img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15181114" width="100">
-<img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15237900" width="100">
-<img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15247742" width="100">
-<img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15297335" width="100">
+<img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/14886290" width="100"><img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15006642" width="100"><img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15181114" width="100"><img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15237900" width="100"><img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15247742" width="100"><img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15297335" width="100">
